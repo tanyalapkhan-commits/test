@@ -66,7 +66,7 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | 2 | верх-центр | `winch-hub-field` | /oborudovanie/kabelnye-lebedki/ | Протяжка силового кабеля капстанной лебедкой с контролем усилия по дисплею |
 | 3 | верх-право | `winch-hub-set` | /oborudovanie/kabelnye-lebedki/ | Комплект для протяжки: лебедка, трос, регистратор, вертлюг, чулок, ролики |
 | 4 | низ-лево | `winch-capstan` | /oborudovanie/kabelnye-lebedki/kapstannye-i-barabannye/ (обложка) | Двухшкивный капстанный механизм кабельной лебедки |
-| 5 | низ-центр | `winch-capstan-2` | — (резерв) | Барабанная лебедка с многослойной намоткой стального каната |
+| 5 | низ-центр | `winch-capstan-2` | /oborudovanie/kabelnye-lebedki/kapstannye-i-barabannye/ | Барабанная лебедка с многослойной намоткой стального каната |
 | 6 | низ-право | `winch-electric` | /oborudovanie/kabelnye-lebedki/elektricheskie/ (обложка) | Электрическая кабельная лебедка в кабельном коллекторе |
 
 ## Полотно 03 — Бензиновые лебедки
@@ -147,11 +147,11 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
 | 1 | верх-лево | `winch-diesel-trailer` | /oborudovanie/kabelnye-lebedki/dizelnye/na-pricepe/ (обложка) | Дизельная кабельная лебедка на прицепе в транспортном положении |
-| 2 | верх-центр | `winch-diesel-trailer-2` | — (резерв) | Лебедка на прицепе с выставленными опорами и анкеровкой |
-| 3 | верх-право | `winch-electric-2` | — (резерв) | Пульт частотного управления электрической лебедки |
+| 2 | верх-центр | `winch-diesel-trailer-2` | /oborudovanie/kabelnye-lebedki/dizelnye/na-pricepe/ | Лебедка на прицепе с выставленными опорами и анкеровкой |
+| 3 | верх-право | `winch-electric-2` | /oborudovanie/kabelnye-lebedki/elektricheskie/ | Пульт частотного управления электрической лебедки |
 | 4 | низ-лево | `winch-hydraulic` | /oborudovanie/kabelnye-lebedki/gidravlicheskie/ (обложка) | Гидравлическая кабельная лебедка, подключённая к экскаватору |
-| 5 | низ-центр | `winch-hydraulic-2` | — (резерв) | Гидравлическая лебедка с отдельной гидростанцией |
-| 6 | низ-право | `winch-electric-tunnel` | — (резерв) | Протяжка кабеля электрической лебедкой в тоннеле |
+| 5 | низ-центр | `winch-hydraulic-2` | /oborudovanie/kabelnye-lebedki/gidravlicheskie/ | Гидравлическая лебедка с отдельной гидростанцией |
+| 6 | низ-право | `winch-electric-tunnel` | /oborudovanie/kabelnye-lebedki/elektricheskie/ | Протяжка кабеля электрической лебедкой в тоннеле |
 
 ## Полотно 06 — Прицепы для кабельных барабанов
 
@@ -175,11 +175,11 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
 | 1 | верх-лево | `trailer-hub` | /oborudovanie/kabelnye-pricepy/ (обложка) | Прицепы для кабельных барабанов разной грузоподъёмности |
-| 2 | верх-центр | `trailer-road` | /oborudovanie/kabelnye-pricepy/dorozhnye/ (обложка) | Дорожный прицеп-барабановоз с кабельным барабаном |
+| 2 | верх-центр | `trailer-road` | /oborudovanie/kabelnye-pricepy/dorozhnye/ (обложка), /oborudovanie/kabelnye-pricepy/dorozhnye/ | Дорожный прицеп-барабановоз с кабельным барабаном |
 | 3 | верх-право | `trailer-hydraulic` | /oborudovanie/kabelnye-pricepy/gidravlicheskie/ (обложка) | Гидравлический кабельный прицеп с самопогрузкой барабана |
 | 4 | низ-лево | `trailer-multi` | /oborudovanie/kabelnye-pricepy/mnogobarabannye/ (обложка) | Многобарабанный прицеп для одновременной раскатки трёх фаз |
-| 5 | низ-центр | `trailer-road-2` | — (резерв) | Раскатка кабеля непосредственно с прицепа-барабановоза |
-| 6 | низ-право | `trailer-hydraulic-2` | — (резерв) | Гидравлический привод вращения барабана на прицепе |
+| 5 | низ-центр | `trailer-road-2` | /oborudovanie/kabelnye-pricepy/ | Раскатка кабеля непосредственно с прицепа-барабановоза |
+| 6 | низ-право | `trailer-hydraulic-2` | /oborudovanie/kabelnye-pricepy/gidravlicheskie/ | Гидравлический привод вращения барабана на прицепе |
 
 ## Полотно 07 — Домкраты и раскаточные устройства
 
@@ -566,13 +566,13 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `winch-petrol-small-2` | — (резерв) | Кабестан с ручной подтяжкой каната |
-| 2 | верх-центр | `winch-petrol-3t-2` | — (резерв) | Пульт управления бензиновой лебедкой с индикатором усилия |
-| 3 | верх-право | `winch-petrol-fiber-2` | — (резерв) | Протяжка ВОЛС в защитной трубе вдоль дороги |
-| 4 | низ-лево | `winch-diesel-5t-2` | — (резерв) | Синтетический канат на накопительном барабане лебедки |
-| 5 | низ-центр | `winch-diesel-10t-2` | — (резерв) | Протяжка кабеля в трубу ГНБ дизельной лебедкой |
-| 6 | низ-право | `winch-diesel-20t-2` | — (резерв) | Оператор тяжёлой лебедки за пультом |
+| 1 | верх-лево | `winch-petrol-small-2` | /oborudovanie/kabelnye-lebedki/benzinovye/do-1-tonny/ | Кабестан с ручной подтяжкой каната |
+| 2 | верх-центр | `winch-petrol-3t-2` | /oborudovanie/kabelnye-lebedki/benzinovye/1-3-tonny/ | Пульт управления бензиновой лебедкой с индикатором усилия |
+| 3 | верх-право | `winch-petrol-fiber-2` | /oborudovanie/kabelnye-lebedki/benzinovye/dlya-vols/ | Протяжка ВОЛС в защитной трубе вдоль дороги |
+| 4 | низ-лево | `winch-diesel-5t-2` | /oborudovanie/kabelnye-lebedki/dizelnye/3-5-tonn/ | Синтетический канат на накопительном барабане лебедки |
+| 5 | низ-центр | `winch-diesel-10t-2` | /oborudovanie/kabelnye-lebedki/dizelnye/5-10-tonn/ | Протяжка кабеля в трубу ГНБ дизельной лебедкой |
+| 6 | низ-право | `winch-diesel-20t-2` | /oborudovanie/kabelnye-lebedki/dizelnye/10-20-tonn/ | Оператор тяжёлой лебедки за пультом |
 
 ---
 
-Всего слотов: 120. Без привязки к странице (резерв): 47. Слотов на сайте без промпта: 0.
+Всего слотов: 120. Без привязки к странице (резерв): 34. Слотов на сайте без промпта: 0.
