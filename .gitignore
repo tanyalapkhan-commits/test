@@ -1,0 +1,8 @@
+canvases/*.png
+canvases/*.jpg
+canvases/*.jpeg
+canvases/*.webp
+!canvases/.gitkeep
+node_modules/
+*.log
+.DS_Store
