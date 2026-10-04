@@ -35,10 +35,10 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
 | 1 | верх-лево | `home-hero` | / (обложка), / (шаблон главной) | Дизельная кабельная лебедка на прицепе у траншеи с кабельными роликами |
-| 2 | верх-центр | `tech-hub` | /tekhnologii/ (обложка) | Трасса кабельной линии: траншея с роликами и лебедка на прицепе, вид сверху |
-| 3 | верх-право | `service-hub` | /servis/ (обложка) | Цех обслуживания и сборки кабельных лебедок |
+| 2 | верх-центр | `tech-hub` | /tekhnologii/ (обложка), /tekhnologii/ | Трасса кабельной линии: траншея с роликами и лебедка на прицепе, вид сверху |
+| 3 | верх-право | `service-hub` | /oborudovanie/, /servis/ (обложка), /servis/ | Цех обслуживания и сборки кабельных лебедок |
 | 4 | низ-лево | `about-3` | — (резерв) | Инженер компании и заказчик на объекте прокладки кабеля |
-| 5 | низ-центр | `about-welding` | — (резерв) | Сварка рамы кабельного оборудования в цеху |
+| 5 | низ-центр | `about-welding` | /o-kompanii/ | Сварка рамы кабельного оборудования в цеху |
 | 6 | низ-право | `about-4` | — (резерв) | Проверка лебедки на испытательном стенде перед отгрузкой |
 
 ## Полотно 02 — Бензиновые лебедки
@@ -95,7 +95,7 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | 3 | верх-право | `winch-diesel-3` | /oborudovanie/kabelnye-lebedki/dizelnye/ | Протяжка кабеля в кабельный канал дизельной лебедкой со стрелой |
 | 4 | низ-лево | `winch-diesel-trailer` | /oborudovanie/kabelnye-lebedki/dizelnye/na-pricepe/ (обложка) | Кабельная лебедка на прицепе в транспортном положении за пикапом |
 | 5 | низ-центр | `winch-diesel-20t` | /oborudovanie/kabelnye-lebedki/dizelnye/10-20-tonn/ (обложка) | Тяжёлая кабельная лебедка на двухосном прицепе с выставленными опорами |
-| 6 | низ-право | `gauge-2` | — (резерв) | Регистратор тяжения на пульте лебедки и распечатка протокола |
+| 6 | низ-право | `gauge-2` | /oborudovanie/kontrol-tyazheniya/ | Регистратор тяжения на пульте лебедки и распечатка протокола |
 
 ## Полотно 04 — Электрические и гидравлические лебедки
 
@@ -123,7 +123,7 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | 3 | верх-право | `winch-electric-2` | /oborudovanie/kabelnye-lebedki/elektricheskie/ | Электродвигатель и редуктор электрической лебедки |
 | 4 | низ-лево | `winch-hydraulic-2` | /oborudovanie/kabelnye-lebedki/gidravlicheskie/ | Гидравлическая лебедка с отдельной гидростанцией |
 | 5 | низ-центр | `winch-hydraulic` | /oborudovanie/kabelnye-lebedki/gidravlicheskie/ (обложка) | Гидравлическая лебедка на автомобиле у кабельного колодца |
-| 6 | низ-право | `service-repair` | /servis/remont-lebedok/ (обложка) | Гидрораспределитель и рукава высокого давления кабельной лебедки |
+| 6 | низ-право | `service-repair` | /servis/remont-lebedok/ (обложка), /servis/remont-lebedok/ | Гидрораспределитель и рукава высокого давления кабельной лебедки |
 
 ## Полотно 05 — Лебедки: обзор и детали
 
@@ -175,11 +175,11 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
 | 1 | верх-лево | `rigging-1` | /oborudovanie/osnastka/ (обложка) | Кабельные чулки разных размеров |
-| 2 | верх-центр | `rigging-2` | — (резерв) | Монтажник надевает тяговый чулок на кабель |
+| 2 | верх-центр | `rigging-2` | /oborudovanie/osnastka/ | Монтажник надевает тяговый чулок на кабель |
 | 3 | верх-право | `rigging-3` | — (резерв) | Тяговый чулок, закреплённый бандажом на кабеле |
 | 4 | низ-лево | `rigging-swivels` | — (резерв) | Вертлюги для протяжки кабеля разных типоразмеров |
 | 5 | низ-центр | `winch-hub-set` | /oborudovanie/kabelnye-lebedki/ | Соединение каната с тяговым чулком через вертлюг |
-| 6 | низ-право | `tech-duct-winch-2` | — (резерв) | Нанесение смазки на кабель перед затягиванием в трубу |
+| 6 | низ-право | `tech-duct-winch-2` | /tekhnologii/v-trubah/zatyagivanie-lebedkoj/ | Нанесение смазки на кабель перед затягиванием в трубу |
 
 ## Полотно 07 — Домкраты для барабанов
 
@@ -202,10 +202,10 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `jack-hub` | /oborudovanie/domkraty-i-raskatchiki/ (обложка) | Кабельный барабан на домкратах на строительной площадке |
-| 2 | верх-центр | `jack-hydraulic` | /oborudovanie/domkraty-i-raskatchiki/gidravlicheskie-domkraty/ (обложка) | Подъём барабана гидравлическим домкратом |
+| 1 | верх-лево | `jack-hub` | /oborudovanie/domkraty-i-raskatchiki/ (обложка), /oborudovanie/domkraty-i-raskatchiki/ | Кабельный барабан на домкратах на строительной площадке |
+| 2 | верх-центр | `jack-hydraulic` | /oborudovanie/domkraty-i-raskatchiki/gidravlicheskie-domkraty/ (обложка), /oborudovanie/domkraty-i-raskatchiki/gidravlicheskie-domkraty/ | Подъём барабана гидравлическим домкратом |
 | 3 | верх-право | `jack-mech` | /oborudovanie/domkraty-i-raskatchiki/mekhanicheskie-domkraty/ (обложка) | Механические винтовые домкраты с барабаном на оси |
-| 4 | низ-лево | `jack-mech-2` | — (резерв) | Установка оси с конусом в кабельный барабан |
+| 4 | низ-лево | `jack-mech-2` | /oborudovanie/domkraty-i-raskatchiki/mekhanicheskie-domkraty/ | Установка оси с конусом в кабельный барабан |
 | 5 | низ-центр | `jack-crane` | — (резерв) | Подъём кабельного барабана краном с траверсой |
 | 6 | низ-право | `jack-axles` | — (резерв) | Оси и траверсы для кабельных барабанов на складе |
 
@@ -231,7 +231,7 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
 | 1 | верх-лево | `jack-platform` | /oborudovanie/domkraty-i-raskatchiki/raskatochnye-ustrojstva/ (обложка) | Роликовая раскаточная платформа с пандусом для кабельного барабана |
-| 2 | верх-центр | `jack-platform-2` | — (резерв) | Закатывание барабана на раскаточную платформу |
+| 2 | верх-центр | `jack-platform-2` | /oborudovanie/domkraty-i-raskatchiki/raskatochnye-ustrojstva/ | Закатывание барабана на раскаточную платформу |
 | 3 | верх-право | `jack-platform-3` | — (резерв) | Ролик раскаточной платформы на подшипниковой опоре |
 | 4 | низ-лево | `jack-stand-mobile` | — (резерв) | Передвижная стойка для кабельного барабана |
 | 5 | низ-центр | `jack-rack` | — (резерв) | Стеллаж для размотки кабеля с нескольких катушек |
@@ -260,7 +260,7 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 |---|---|---|---|---|
 | 1 | верх-лево | `trailer-road` | /oborudovanie/kabelnye-pricepy/dorozhnye/ (обложка), /oborudovanie/kabelnye-pricepy/dorozhnye/ | Прицеп-барабановоз с кабельным барабаном на трассе |
 | 2 | верх-центр | `trailer-road-2` | /oborudovanie/kabelnye-pricepy/ | Раскатка кабеля с прицепа-барабановоза в траншею |
-| 3 | верх-право | `trailer-hub` | /oborudovanie/kabelnye-pricepy/ (обложка) | Кабельный прицеп с барабаном за пикапом |
+| 3 | верх-право | `trailer-hub` | /oborudovanie/, /oborudovanie/kabelnye-pricepy/ (обложка) | Кабельный прицеп с барабаном за пикапом |
 | 4 | низ-лево | `trailer-hydraulic-2` | /oborudovanie/kabelnye-pricepy/gidravlicheskie/ | Гидроцилиндр подъёма барабана на кабельном прицепе |
 | 5 | низ-центр | `trailer-hydraulic` | /oborudovanie/kabelnye-pricepy/gidravlicheskie/ (обложка) | Прицеп с гидравлическими рычагами для самопогрузки барабана |
 | 6 | низ-право | `trailer-heavy` | — (резерв) | Трёхосный прицеп с приводом барабана на подстанции |
@@ -288,10 +288,10 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 |---|---|---|---|---|
 | 1 | верх-лево | `roller-straight` | /oborudovanie/kabelnye-roliki/linejnye/ (обложка) | Линейные кабельные ролики в траншее |
 | 2 | верх-центр | `roller-hub` | /oborudovanie/kabelnye-roliki/ (обложка) | Линейный кабельный ролик |
-| 3 | верх-право | `roller-straight-2` | — (резерв) | Кабель на линейном ролике |
-| 4 | низ-лево | `roller-corner` | /oborudovanie/kabelnye-roliki/uglovye/ (обложка) | Угловой кабельный ролик на повороте траншеи |
-| 5 | низ-центр | `roller-corner-2` | — (резерв) | Угловой кабельный ролик |
-| 6 | низ-право | `roller-assort` | — (резерв) | Линейные и угловые кабельные ролики на складе |
+| 3 | верх-право | `roller-straight-2` | /oborudovanie/kabelnye-roliki/linejnye/ | Кабель на линейном ролике |
+| 4 | низ-лево | `roller-corner` | /oborudovanie/kabelnye-roliki/uglovye/ (обложка), /tekhnologii/v-transhee/raskatka-po-rolikam/ | Угловой кабельный ролик на повороте траншеи |
+| 5 | низ-центр | `roller-corner-2` | /oborudovanie/kabelnye-roliki/uglovye/ | Угловой кабельный ролик |
+| 6 | низ-право | `roller-assort` | /oborudovanie/kabelnye-roliki/ | Линейные и угловые кабельные ролики на складе |
 
 ## Полотно 11 — Входные устройства
 
@@ -316,7 +316,7 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 |---|---|---|---|---|
 | 1 | верх-лево | `roller-entry-manhole` | — (резерв) | Роликовое устройство на краю кабельного колодца |
 | 2 | верх-центр | `roller-entry` | /oborudovanie/kabelnye-roliki/vhodnye-ustrojstva/ (обложка) | Монтажник вводит кабель в трубу через воронку в колодце |
-| 3 | верх-право | `roller-entry-2` | — (резерв) | Входная воронка и ролик для затягивания кабеля в трубу |
+| 3 | верх-право | `roller-entry-2` | /oborudovanie/kabelnye-roliki/vhodnye-ustrojstva/ | Входная воронка и ролик для затягивания кабеля в трубу |
 | 4 | низ-лево | `roller-entry-bell` | — (резерв) | Раструб на входе кабеля в гофрированную трубу |
 | 5 | низ-центр | `roller-corner-manhole` | — (резерв) | Установка роликового устройства на колодец |
 | 6 | низ-право | `roller-entry-set` | — (резерв) | Комплект воронок и роликов для протяжки кабеля |
@@ -343,7 +343,7 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
 | 1 | верх-лево | `uzk-1` | /oborudovanie/uzk/ (обложка) | Устройство закладки кабеля на катушке у колодца |
-| 2 | верх-центр | `uzk-2` | — (резерв) | Проталкивание стеклопластикового прутка в трубу |
+| 2 | верх-центр | `uzk-2` | /oborudovanie/uzk/ | Проталкивание стеклопластикового прутка в трубу |
 | 3 | верх-право | `uzk-3` | — (резерв) | Наконечник с проушиной на прутке УЗК |
 | 4 | низ-лево | `uzk-4` | — (резерв) | Работа с УЗК в кабельном помещении |
 | 5 | низ-центр | `uzk-5` | — (резерв) | Перемещение УЗК на колёсах по площадке |
@@ -370,12 +370,12 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `pusher-1` | /oborudovanie/kabelnye-tolkateli/ (обложка) | Гусеничный кабельный толкатель в траншее |
+| 1 | верх-лево | `pusher-1` | /oborudovanie/kabelnye-tolkateli/ (обложка), /tekhnologii/vysokovoltnye-kabeli/ | Гусеничный кабельный толкатель в траншее |
 | 2 | верх-центр | `pusher-3` | — (резерв) | Гусеницы толкателя, обжимающие кабель |
-| 3 | верх-право | `pusher-2` | — (резерв) | Несколько толкателей вдоль трассы кабельной линии |
+| 3 | верх-право | `pusher-2` | /oborudovanie/kabelnye-tolkateli/ | Несколько толкателей вдоль трассы кабельной линии |
 | 4 | низ-лево | `pusher-4` | — (резерв) | Роликовый кабельный толкатель с электроприводом |
 | 5 | низ-центр | `pusher-5` | — (резерв) | Подключение кабельного толкателя |
-| 6 | низ-право | `tech-tunnel` | /tekhnologii/kollektory-i-tonneli/ (обложка) | Кабельный толкатель в тоннеле |
+| 6 | низ-право | `tech-tunnel` | /tekhnologii/kollektory-i-tonneli/ (обложка), /tekhnologii/kollektory-i-tonneli/ | Кабельный толкатель в тоннеле |
 
 ## Полотно 14 — Трубы и кабельная канализация
 
@@ -398,12 +398,12 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `tech-duct` | /tekhnologii/v-trubah/ (обложка) | Укладка защитных труб в траншею |
+| 1 | верх-лево | `tech-duct` | /tekhnologii/v-trubah/ (обложка), /tekhnologii/v-trubah/ | Укладка защитных труб в траншею |
 | 2 | верх-центр | `tech-duct-3` | — (резерв) | Тяговый наконечник в трубе |
 | 3 | верх-право | `tech-duct-clean` | — (резерв) | Прочистка трубы щёткой перед протяжкой |
 | 4 | низ-лево | `tech-duct-2` | — (резерв) | Герметичные вводы труб в стене |
-| 5 | низ-центр | `tech-duct-reel` | — (резерв) | Прицеп с барабаном полиэтиленовой трубы |
-| 6 | низ-право | `tech-duct-block` | — (резерв) | Блок кабельной канализации из труб |
+| 5 | низ-центр | `tech-duct-reel` | /tekhnologii/v-trubah/zatyagivanie-lebedkoj/, /tekhnologii/vols/pnevmoprokladka/ | Прицеп с барабаном полиэтиленовой трубы |
+| 6 | низ-право | `tech-duct-block` | /tekhnologii/v-trubah/ | Блок кабельной канализации из труб |
 
 ## Полотно 15 — Аренда и техника на прицепах
 
@@ -429,9 +429,9 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 | 1 | верх-лево | `gen-1` | — (резерв) | Передвижная электростанция с осветительной мачтой на объекте |
 | 2 | верх-центр | `trailer-hitch` | — (резерв) | Сцепное устройство и опоры прицепа |
 | 3 | верх-право | `tech-night` | — (резерв) | Ночная прокладка кабеля с освещением |
-| 4 | низ-лево | `rent-winch` | /arenda/lebedki/ (обложка) | Кабельная лебедка на прицепе в сервисном цеху |
-| 5 | низ-центр | `rent-trailer` | /arenda/pricepy/ (обложка) | Проверка прицепа-барабановоза перед выдачей |
-| 6 | низ-право | `rent-hub` | /arenda/ (обложка) | Парк оборудования для аренды |
+| 4 | низ-лево | `rent-winch` | /arenda/lebedki/ (обложка), /arenda/lebedki/ | Кабельная лебедка на прицепе в сервисном цеху |
+| 5 | низ-центр | `rent-trailer` | /arenda/pricepy/ (обложка), /arenda/pricepy/ | Проверка прицепа-барабановоза перед выдачей |
+| 6 | низ-право | `rent-hub` | /arenda/ (обложка), /arenda/ | Парк оборудования для аренды |
 
 ## Полотно 16 — Траншея и зимняя прокладка
 
@@ -454,12 +454,12 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `tech-trench` | /tekhnologii/v-transhee/ (обложка) | Разработка траншеи под кабельную линию |
-| 2 | верх-центр | `tech-trench-rollers` | /tekhnologii/v-transhee/raskatka-po-rolikam/ (обложка) | Раскатка кабеля по роликам в траншее |
-| 3 | верх-право | `tech-trench-backfill` | /tekhnologii/v-transhee/zashchita-i-zasypka/ (обложка) | Защитные плиты и сигнальная сетка над кабелем |
-| 4 | низ-лево | `tech-winter` | /tekhnologii/zimnyaya-prokladka/ (обложка) | Прогрев кабельного барабана в тепляке зимой |
+| 1 | верх-лево | `tech-trench` | /tekhnologii/v-transhee/ (обложка), /tekhnologii/v-transhee/ | Разработка траншеи под кабельную линию |
+| 2 | верх-центр | `tech-trench-rollers` | /tekhnologii/v-transhee/, /tekhnologii/v-transhee/raskatka-po-rolikam/ (обложка), /tekhnologii/v-transhee/raskatka-po-rolikam/ | Раскатка кабеля по роликам в траншее |
+| 3 | верх-право | `tech-trench-backfill` | /tekhnologii/v-transhee/, /tekhnologii/v-transhee/zashchita-i-zasypka/ (обложка), /tekhnologii/v-transhee/zashchita-i-zasypka/ | Защитные плиты и сигнальная сетка над кабелем |
+| 4 | низ-лево | `tech-winter` | /tekhnologii/zimnyaya-prokladka/ (обложка), /tekhnologii/zimnyaya-prokladka/ | Прогрев кабельного барабана в тепляке зимой |
 | 5 | низ-центр | `tech-winter-2` | — (резерв) | Тепловая пушка прогревает кабель на барабане |
-| 6 | низ-право | `tech-trench-backfill-2` | — (резерв) | Уплотнение грунта при обратной засыпке траншеи |
+| 6 | низ-право | `tech-trench-backfill-2` | /tekhnologii/v-transhee/zashchita-i-zasypka/ | Уплотнение грунта при обратной засыпке траншеи |
 
 ## Полотно 17 — Протяжка в трубах и контроль
 
@@ -482,12 +482,12 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `tech-duct-winch` | /tekhnologii/v-trubah/zatyagivanie-lebedkoj/ (обложка) | Смазка кабеля при затягивании в трубу |
+| 1 | верх-лево | `tech-duct-winch` | /tekhnologii/v-trubah/zatyagivanie-lebedkoj/ (обложка), /tekhnologii/v-trubah/zatyagivanie-lebedkoj/ | Смазка кабеля при затягивании в трубу |
 | 2 | верх-центр | `tech-duct-chamber` | — (резерв) | Кабельная камера с роликами и вводами труб |
-| 3 | верх-право | `tech-calc` | /tekhnologii/raschet-tyazheniya/ (обложка) | Инженер анализирует график тяжения на ноутбуке |
+| 3 | верх-право | `tech-calc` | /tekhnologii/raschet-tyazheniya/ (обложка), /tekhnologii/raschet-tyazheniya/ | Инженер анализирует график тяжения на ноутбуке |
 | 4 | низ-лево | `rigging-head` | — (резерв) | Тяговая головка на кабеле |
-| 5 | низ-центр | `gauge-1` | /oborudovanie/kontrol-tyazheniya/ (обложка) | График тяжения кабеля на планшете |
-| 6 | низ-право | `tech-hv` | /tekhnologii/vysokovoltnye-kabeli/ (обложка) | Ввод высоковольтного кабеля в трубу через роликовое устройство |
+| 5 | низ-центр | `gauge-1` | /oborudovanie/kontrol-tyazheniya/ (обложка), /oborudovanie/kontrol-tyazheniya/ | График тяжения кабеля на планшете |
+| 6 | низ-право | `tech-hv` | /tekhnologii/vysokovoltnye-kabeli/ (обложка), /tekhnologii/vysokovoltnye-kabeli/ | Ввод высоковольтного кабеля в трубу через роликовое устройство |
 
 ## Полотно 18 — ГНБ, ВОЛС, эстакады, тоннели
 
@@ -510,12 +510,12 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `tech-hdd` | /tekhnologii/gnb/ (обложка) | Установка горизонтально-направленного бурения |
-| 2 | верх-центр | `tech-hdd-2` | — (резерв) | Затягивание трубы в скважину ГНБ |
-| 3 | верх-право | `tech-blowing` | /tekhnologii/vols/pnevmoprokladka/ (обложка) | Задувка кабеля в микротрубки |
-| 4 | низ-лево | `tech-fiber` | /tekhnologii/vols/ (обложка) | Протяжка кабеля в колодец с прицепа-барабановоза |
-| 5 | низ-центр | `tech-tray` | /tekhnologii/estakady-i-lotki/ (обложка) | Прокладка кабеля по эстакаде на промышленном объекте |
-| 6 | низ-право | `tech-tunnel-2` | — (резерв) | Кабели на конструкциях в кабельном тоннеле |
+| 1 | верх-лево | `tech-hdd` | /tekhnologii/gnb/ (обложка), /tekhnologii/gnb/ | Установка горизонтально-направленного бурения |
+| 2 | верх-центр | `tech-hdd-2` | /tekhnologii/gnb/ | Затягивание трубы в скважину ГНБ |
+| 3 | верх-право | `tech-blowing` | /otrasli/telekom/, /tekhnologii/vols/, /tekhnologii/vols/pnevmoprokladka/ (обложка), /tekhnologii/vols/pnevmoprokladka/ | Задувка кабеля в микротрубки |
+| 4 | низ-лево | `tech-fiber` | /tekhnologii/vols/ (обложка), /tekhnologii/vols/ | Протяжка кабеля в колодец с прицепа-барабановоза |
+| 5 | низ-центр | `tech-tray` | /tekhnologii/estakady-i-lotki/ (обложка), /tekhnologii/estakady-i-lotki/ | Прокладка кабеля по эстакаде на промышленном объекте |
+| 6 | низ-право | `tech-tunnel-2` | /tekhnologii/kollektory-i-tonneli/ | Кабели на конструкциях в кабельном тоннеле |
 
 ## Полотно 19 — Сервис и офис
 
@@ -538,12 +538,12 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `service-repair-engine` | — (резерв) | Ремонт двигателя кабельной лебедки |
+| 1 | верх-лево | `service-repair-engine` | /servis/remont-lebedok/ | Ремонт двигателя кабельной лебедки |
 | 2 | верх-центр | `service-parts` | — (резерв) | Склад запасных частей |
 | 3 | верх-право | `service-hub-2` | — (резерв) | Выездная сервисная служба у лебедки на объекте |
 | 4 | низ-лево | `service-brakes` | — (резерв) | Детали тормоза и ступицы прицепа при ремонте |
 | 5 | низ-центр | `about-office` | — (резерв) | Офис компании |
-| 6 | низ-право | `about-showroom` | — (резерв) | Шоурум с кабельной лебедкой |
+| 6 | низ-право | `about-showroom` | /o-kompanii/ | Шоурум с кабельной лебедкой |
 
 ## Полотно 20 — Компания и филиалы
 
@@ -566,13 +566,13 @@ Remember: no text, no numbers, no logos, no watermarks in any of the six photos.
 
 | № | Позиция | Слот (имя файла) | Где на сайте | Alt-текст |
 |---|---|---|---|---|
-| 1 | верх-лево | `contacts-office` | /kontakty/ и страницы городов | Бизнес-центр, в котором расположен офис |
+| 1 | верх-лево | `contacts-office` | /kontakty/ (обложка), /kontakty/ и страницы городов | Бизнес-центр, в котором расположен офис |
 | 2 | верх-центр | `about-consult` | — (резерв) | Консультация клиентов в шоуруме оборудования |
-| 3 | верх-право | `about-1` | /o-kompanii/ (обложка) | Команда инженеров компании |
-| 4 | низ-лево | `contacts-warehouse` | страницы городов | Складской комплекс филиала |
+| 3 | верх-право | `about-1` | /o-kompanii/ (обложка), /o-kompanii/ | Команда инженеров компании |
+| 4 | низ-лево | `contacts-warehouse` | /kontakty/, страницы городов | Складской комплекс филиала |
 | 5 | низ-центр | `about-2b` | — (резерв) | Стеллажи с кабельными роликами на складе |
-| 6 | низ-право | `about-fleet` | — (резерв) | Парк кабельных прицепов и лебедок у склада филиала |
+| 6 | низ-право | `about-fleet` | /o-kompanii/ | Парк кабельных прицепов и лебедок у склада филиала |
 
 ---
 
-Всего слотов: 120. Без привязки к странице (резерв): 58. Слотов на сайте без промпта: 0.
+Всего слотов: 120. Без привязки к странице (резерв): 38. Слотов на сайте без промпта: 0.
