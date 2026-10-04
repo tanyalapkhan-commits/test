@@ -42,7 +42,11 @@ function kp_photo_plan() {
  */
 function kp_photo_alt( $slot ) {
 	$plan = kp_photo_plan();
-	return isset( $plan[ $slot ]['alt'] ) ? $plan[ $slot ]['alt'] : '';
+	if ( isset( $plan[ $slot ]['alt'] ) ) {
+		return $plan[ $slot ]['alt'];
+	}
+	$aliases = kp_photo_aliases();
+	return ( isset( $aliases[ $slot ] ) && isset( $plan[ $aliases[ $slot ] ]['alt'] ) ) ? $plan[ $aliases[ $slot ] ]['alt'] : '';
 }
 
 /**
@@ -73,8 +77,27 @@ function kp_photo_file( $slot ) {
 		}
 	}
 
+	// Своего фото нет — пробуем близкое по смыслу из data/photo-aliases.json.
+	$aliases = kp_photo_aliases();
+	if ( isset( $aliases[ $slot ] ) && $aliases[ $slot ] !== $slot ) {
+		$cache[ $slot ] = kp_photo_file( $aliases[ $slot ] );
+		return $cache[ $slot ];
+	}
+
 	$cache[ $slot ] = null;
 	return null;
+}
+
+/**
+ * Карта замен: слот без собственного фото => слот с подходящим фото.
+ */
+function kp_photo_aliases() {
+	static $aliases = null;
+	if ( null === $aliases ) {
+		$file    = KP_DIR . '/data/photo-aliases.json';
+		$aliases = file_exists( $file ) ? (array) json_decode( file_get_contents( $file ), true ) : array(); // phpcs:ignore WordPress.WP.AlternativeFunctions
+	}
+	return $aliases;
 }
 
 function kp_photo_url( $slot ) {

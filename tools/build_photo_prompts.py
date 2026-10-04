@@ -93,7 +93,12 @@ def main():
         lines.append('')
 
     unused = [s for s in slots if s not in usage]
-    missing = sorted(set(usage) - set(slots))
+    aliases_file = os.path.join(THEME, 'data', 'photo-aliases.json')
+    aliases = json.load(open(aliases_file, encoding='utf-8')) if os.path.exists(aliases_file) else {}
+    for a, target in aliases.items():
+        if a in usage:
+            usage.setdefault(target, []).extend(u + ' (замена для %s)' % a for u in usage[a])
+    missing = sorted(set(usage) - set(slots) - set(aliases))
     lines.append('---\n')
     lines.append('Всего слотов: %d. Без привязки к странице (резерв): %d. Слотов на сайте без промпта: %d.\n'
                  % (len(slots), len(unused), len(missing)))
