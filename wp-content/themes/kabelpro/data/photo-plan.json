@@ -1,0 +1,246 @@
+{
+ "format": "Каждое полотно — сетка 3 колонки × 2 ряда. Порядок фото: слева направо, сверху вниз (1–3 верхний ряд, 4–6 нижний).",
+ "style": "Photorealistic professional industrial documentary photography, shot on a full-frame camera with 35mm and 50mm lenses, natural daylight, realistic colors, sharp focus, high dynamic range. Setting: Russia / Kazakhstan / CIS — realistic urban and rural landscapes, birch trees, Soviet-era and modern buildings, overcast or clear sky. Workers wear navy-blue workwear with high-visibility safety-yellow stripes and white or yellow hard hats, safety glasses and gloves. Equipment is painted dark navy blue with safety-yellow details. Absolutely no text, no letters, no logos, no brand names, no watermarks, no captions anywhere in the image.",
+ "canvases": [
+  {
+   "id": 1,
+   "theme": "Главная страница и компания",
+   "photos": [
+    {"slot": "home-hero", "alt": "Протяжка силового кабеля кабельной лебедкой на строительной площадке", "scene": "Wide cinematic shot of a cable laying site at golden hour: a long open trench with yellow cable rollers, a large wooden cable drum on a navy trailer in the foreground, black power cable running along the rollers into the distance, a capstan winch far away, two workers walking along the trench, city skyline in soft haze."},
+    {"slot": "home-winch-diesel", "alt": "Дизельная кабельная лебедка на прицепе с барабаном троса", "scene": "Three-quarter view of a heavy diesel capstan cable pulling winch mounted on a two-axle navy trailer, two grooved yellow capstan drums, large rope storage reel with synthetic orange rope, control panel with digital display, parked on gravel at a substation construction site."},
+    {"slot": "home-rent", "alt": "Аренда кабельной лебедки и прицепа для барабана", "scene": "Equipment rental yard: a row of navy cable winches and cable drum trailers neatly parked on clean asphalt in front of a modern warehouse, a manager in navy jacket handing documents to a contractor, pickup truck with hitch nearby."},
+    {"slot": "home-service", "alt": "Сервисный инженер обслуживает кабельную лебедку", "scene": "Service engineer in navy overalls inspecting the hydraulic pump of a cable winch inside a bright clean workshop, open engine cover, tools on a trolley, diagnostic tablet in hand."},
+    {"slot": "home-training", "alt": "Обучение монтажной бригады работе с лебедкой", "scene": "Instructor explaining the control panel of a cable winch to a group of five workers in hard hats outdoors at a training ground, one worker holding a radio, cable drum in background."},
+    {"slot": "about-1", "alt": "Команда инженеров компании на объекте прокладки кабеля", "scene": "Group of six engineers and technicians standing confidently in front of a cable pulling winch and a large cable drum at a construction site, natural poses, friendly, Eastern European appearance, daytime."}
+   ]
+  },
+  {
+   "id": 2,
+   "theme": "Кабельные лебедки: обзор",
+   "photos": [
+    {"slot": "winch-hub", "alt": "Кабельные лебедки разных типов на площадке", "scene": "Lineup of four cable pulling winches of different sizes (small portable petrol, mid-size skid-mounted, diesel on trailer, electric) on a clean concrete yard, side by side, overcast daylight."},
+    {"slot": "winch-hub-field", "alt": "Протяжка силового кабеля капстанной лебедкой с контролем усилия по дисплею", "scene": "Operator standing at a capstan cable winch watching a digital tension display, rope running from the winch towards a trench with rollers, black power cable approaching, construction site with fences."},
+    {"slot": "winch-hub-set", "alt": "Комплект для протяжки: лебедка, трос, регистратор, вертлюг, чулок, ролики", "scene": "Top-down flat-lay on concrete of a complete cable pulling kit: coiled synthetic rope, a swivel, a woven steel cable pulling sock, a digital tension recorder, three yellow cable rollers, gloves, radio, arranged neatly."},
+    {"slot": "winch-capstan", "alt": "Двухшкивный капстанный механизм кабельной лебедки", "scene": "Close-up of a twin capstan pulling mechanism: two grooved yellow capstan drums with synthetic rope wound in figure-eight, hydraulic motor visible, shallow depth of field."},
+    {"slot": "winch-capstan-2", "alt": "Барабанная лебедка с многослойной намоткой стального каната", "scene": "Close-up of a drum-type winch with steel wire rope wound in several neat layers on a large drum, level wind guide, industrial lighting."},
+    {"slot": "winch-electric", "alt": "Электрическая кабельная лебедка в кабельном коллекторе", "scene": "Electric cable pulling winch placed in a concrete underground cable tunnel with cable brackets on walls, LED lighting, power cable connection to the winch, worker with tablet."}
+   ]
+  },
+  {
+   "id": 3,
+   "theme": "Бензиновые лебедки",
+   "photos": [
+    {"slot": "winch-petrol-1", "alt": "Бензиновая кабельная лебедка на объекте", "scene": "Compact petrol-powered capstan cable winch on a tubular frame placed next to a cable manhole in a city courtyard, rope going into the manhole, Soviet-era apartment blocks behind."},
+    {"slot": "winch-petrol-2", "alt": "Бензиновая капстанная лебедка с гидростатическим приводом и накопительным барабаном", "scene": "Studio-like outdoor product shot of a mid-size petrol cable winch on skids: air-cooled engine, hydraulic pump, twin capstans, rope storage reel with level wind, control lever and display."},
+    {"slot": "winch-petrol-3", "alt": "Затягивание кабеля 10 кВ в полиэтиленовую трубу бензиновой лебедкой у колодца", "scene": "Workers pulling a medium-voltage cable into an orange HDPE duct at an open pit, petrol winch at the other end, a worker guiding the cable with a bellmouth entry device, mud and gravel realistic."},
+    {"slot": "winch-petrol-small", "alt": "Лёгкая переносная бензиновая лебедка до 1 тонны", "scene": "Two workers carrying a light portable petrol capstan winch by its handles across a lawn towards a trench, coiled rope on top."},
+    {"slot": "winch-petrol-3t", "alt": "Бензиновая кабельная лебедка 3 тонны на одноосном прицепе", "scene": "Petrol cable winch of 3 tons capacity mounted on a single-axle light trailer hitched to a pickup truck, rural road with birch trees."},
+    {"slot": "winch-petrol-fiber", "alt": "Протяжка оптического кабеля бензиновой лебедкой малой мощности", "scene": "Small petrol capstan winch pulling a thin black fiber optic cable from a manhole of a telecom duct network on a city sidewalk, orange fiber cable drum on a stand nearby, technician with tension meter."}
+   ]
+  },
+  {
+   "id": 4,
+   "theme": "Дизельные лебедки",
+   "photos": [
+    {"slot": "winch-diesel-1", "alt": "Дизельная кабельная лебедка для прокладки высоковольтного кабеля", "scene": "Large diesel cable pulling winch with soundproof canopy on trailer at a high-voltage cable route, outriggers deployed, anchored to concrete blocks, cloudy sky."},
+    {"slot": "winch-diesel-2", "alt": "Дизельная капстанная лебедка на двухосном прицепе: шкивы, барабан, пульт", "scene": "Detailed three-quarter view of diesel winch on two-axle trailer showing twin capstans, rope storage drum with synthetic rope, operator control panel with screen, hydraulic hoses neatly routed."},
+    {"slot": "winch-diesel-3", "alt": "Протяжка кабеля 110 кВ: лебедка, регистратор и барабан на гидравлических домкратах", "scene": "High-voltage cable pull in progress: huge steel cable drum lifted on hydraulic jacks, thick black 110 kV cable entering a duct, workers communicating by radio, winch visible far away along the route."},
+    {"slot": "winch-diesel-5t", "alt": "Дизельная лебедка 5 тонн для кабелей 35–110 кВ", "scene": "Mid-size 5-ton diesel cable winch on a single-axle trailer in an urban street work zone with barriers, rope extending into a cable manhole."},
+    {"slot": "winch-diesel-10t", "alt": "Дизельная кабельная лебедка 10 тонн на объекте", "scene": "10-ton diesel capstan winch positioned at the exit of an HDD crossing near a river bank, rope going into a large HDPE pipe, drilling rig visible on the opposite bank."},
+    {"slot": "winch-diesel-20t", "alt": "Тяжёлая дизельная лебедка 20 тонн для кабелей 220–500 кВ", "scene": "Very large heavy-duty diesel cable pulling winch on a tandem trailer at the portal of a cable tunnel, massive capstans, large rope drum, crew of engineers next to it for scale."}
+   ]
+  },
+  {
+   "id": 5,
+   "theme": "Лебедки на прицепе, электрические, гидравлические",
+   "photos": [
+    {"slot": "winch-diesel-trailer", "alt": "Дизельная кабельная лебедка на прицепе в транспортном положении", "scene": "Diesel cable winch on road-legal trailer being towed by a navy truck on a highway, transport position, lights and fenders visible."},
+    {"slot": "winch-diesel-trailer-2", "alt": "Лебедка на прицепе с выставленными опорами и анкеровкой", "scene": "Close view of trailer-mounted winch with deployed stabilizer legs and front anchor blade dug into the ground, chain anchoring to ground anchors."},
+    {"slot": "winch-electric-2", "alt": "Пульт частотного управления электрической лебедки", "scene": "Close-up of an electric winch control cabinet with frequency drive, emergency stop button, digital force display, cable glands, inside a tunnel."},
+    {"slot": "winch-hydraulic", "alt": "Гидравлическая кабельная лебедка, подключённая к экскаватору", "scene": "Hydraulic cable winch mounted on a frame connected by hydraulic hoses to an excavator auxiliary line, excavator parked beside a trench."},
+    {"slot": "winch-hydraulic-2", "alt": "Гидравлическая лебедка с отдельной гидростанцией", "scene": "Compact hydraulic winch with separate portable hydraulic power pack connected by hoses on a construction site, worker connecting quick couplings."},
+    {"slot": "winch-electric-tunnel", "alt": "Протяжка кабеля электрической лебедкой в тоннеле", "scene": "Long concrete cable tunnel with cable rollers fixed to brackets, power cable being pulled along, electric winch at tunnel end, perspective vanishing point, LED lights."}
+   ]
+  },
+  {
+   "id": 6,
+   "theme": "Прицепы для кабельных барабанов",
+   "photos": [
+    {"slot": "trailer-hub", "alt": "Прицепы для кабельных барабанов разной грузоподъёмности", "scene": "Three cable drum trailers of different sizes parked in a row, each carrying a wooden cable drum, warehouse yard."},
+    {"slot": "trailer-road", "alt": "Дорожный прицеп-барабановоз с кабельным барабаном", "scene": "Road cable drum trailer with a large wooden drum of black cable towed by a truck along a suburban road."},
+    {"slot": "trailer-hydraulic", "alt": "Гидравлический кабельный прицеп с самопогрузкой барабана", "scene": "Hydraulic self-loading cable drum trailer lifting a large drum from the ground with hydraulic arms, operator using a remote control."},
+    {"slot": "trailer-multi", "alt": "Многобарабанный прицеп для одновременной раскатки трёх фаз", "scene": "Multi-drum trailer carrying three medium cable drums side by side, three cables being paid out simultaneously into a trench."},
+    {"slot": "trailer-road-2", "alt": "Раскатка кабеля непосредственно с прицепа-барабановоза", "scene": "Cable being unreeled directly from a drum trailer at the start of a trench, worker braking the drum, rollers leading into trench."},
+    {"slot": "trailer-hydraulic-2", "alt": "Гидравлический привод вращения барабана на прицепе", "scene": "Close-up of hydraulic drum drive motor and brake on a cable trailer axle, drum flange with bolts."}
+   ]
+  },
+  {
+   "id": 7,
+   "theme": "Домкраты и раскаточные устройства",
+   "photos": [
+    {"slot": "jack-hub", "alt": "Домкраты для кабельных барабанов на объекте", "scene": "Pair of cable drum jacks holding a large wooden drum on a steel axle at a trench start, cable unrolling from the top of the drum."},
+    {"slot": "jack-mech", "alt": "Механические винтовые домкраты для кабельного барабана", "scene": "Mechanical screw-type cable drum jack stands with a steel axle shaft, close view of screw and handle, on wooden boards."},
+    {"slot": "jack-hydraulic", "alt": "Гидравлические домкраты для тяжёлого кабельного барабана", "scene": "Heavy-duty hydraulic drum jacks lifting a massive steel cable drum for 110 kV cable, hydraulic hand pump and hose, workers at safe distance."},
+    {"slot": "jack-platform", "alt": "Раскаточная платформа с тормозом для кабельного барабана", "scene": "Ground-level drum unwinding platform (turntable rollers) supporting a cable drum, braking device visible, cable feeding into a duct."},
+    {"slot": "jack-mech-2", "alt": "Установка оси в кабельный барабан", "scene": "Two workers inserting a steel axle through the center hole of a wooden cable drum before lifting it on jacks."},
+    {"slot": "jack-hydraulic-2", "alt": "Тормоз и привод на гидравлических стойках для барабана", "scene": "Close-up of disc brake and hydraulic motor attached to a drum stand supporting a large drum, industrial detail shot."}
+   ]
+  },
+  {
+   "id": 8,
+   "theme": "Кабельные ролики",
+   "photos": [
+    {"slot": "roller-hub", "alt": "Кабельные ролики разных типов", "scene": "Assortment of cable rollers on a workshop floor: straight trench rollers, corner rollers, bellmouth duct entry roller, all yellow with steel frames."},
+    {"slot": "roller-straight", "alt": "Линейные кабельные ролики в траншее", "scene": "Row of straight yellow cable rollers placed at regular intervals along the bottom of a sandy trench, receding into distance, cable lying on them."},
+    {"slot": "roller-corner", "alt": "Угловой кабельный ролик на повороте траншеи", "scene": "Corner cable roller assembly with multiple vertical rollers forming a curve at a trench bend, black cable passing around it."},
+    {"slot": "roller-entry", "alt": "Входное устройство с роликами для затягивания кабеля в трубу", "scene": "Duct entry guide with rollers attached to the mouth of an orange plastic pipe in a pit, cable entering smoothly."},
+    {"slot": "roller-straight-2", "alt": "Широкий ролик для кабеля большого диаметра", "scene": "Close-up of a wide heavy-duty straight roller with polyamide roll supporting a thick high-voltage cable."},
+    {"slot": "roller-corner-2", "alt": "Угловые ролики в кабельном колодце", "scene": "Corner rollers mounted inside a concrete cable manhole guiding a cable at a 90 degree turn between two ducts."}
+   ]
+  },
+  {
+   "id": 9,
+   "theme": "Толкатели, УЗК, каталог",
+   "photos": [
+    {"slot": "eq-hub", "alt": "Оборудование для прокладки кабеля: лебедка, прицеп, ролики, УЗК", "scene": "Showroom-like warehouse display of cable laying equipment: winch, drum trailer, rollers, duct rodder on reel, jacks, arranged neatly under bright lights."},
+    {"slot": "pusher-1", "alt": "Кабельный толкатель на трассе прокладки", "scene": "Caterpillar-type cable pusher machine with rubber tracks gripping a thick black cable in a trench, power cable from control unit."},
+    {"slot": "pusher-2", "alt": "Система синхронизированных кабельных толкателей", "scene": "Several cable pushers placed along a long trench route, connected by control cables, engineer with remote control unit."},
+    {"slot": "uzk-1", "alt": "Устройство закладки кабеля на катушке", "scene": "Duct rodder: fiberglass rod wound on a steel cage reel on wheels, next to an open telecom manhole."},
+    {"slot": "uzk-2", "alt": "Проталкивание стеклопластикового прутка в канал кабельной канализации", "scene": "Technician pushing a yellow fiberglass duct rod into a duct inside a manhole, reel beside him on the sidewalk."},
+    {"slot": "roller-entry-2", "alt": "Защитная воронка на входе кабеля в трубу", "scene": "Split plastic bellmouth funnel installed at the end of a duct, cable entering, close-up with mud and water realistic."}
+   ]
+  },
+  {
+   "id": 10,
+   "theme": "Оснастка, инструмент, контроль тяжения",
+   "photos": [
+    {"slot": "rigging-1", "alt": "Кабельные чулки, вертлюги и тяговые головки", "scene": "Selection of woven steel cable pulling socks, swivels with shackles and pulling eyes laid out on a wooden workbench."},
+    {"slot": "rigging-2", "alt": "Тяговый чулок на кабеле с вертлюгом", "scene": "Close-up of a steel pulling sock fitted onto the end of a power cable, taped, connected via a swivel to a synthetic rope."},
+    {"slot": "tools-1", "alt": "Инструмент для монтажа кабеля", "scene": "Professional cable tools: ratchet cable cutter, hydraulic crimping tool, cable stripping tool and sheath cutter in an open case."},
+    {"slot": "tools-2", "alt": "Резка силового кабеля гидравлическим кабелерезом", "scene": "Worker cutting a thick power cable with a hydraulic cable cutter on site, gloves and safety glasses."},
+    {"slot": "gauge-1", "alt": "Электронный динамометр и регистратор тяжения кабеля", "scene": "Digital load cell dynamometer with display connected inline with a pulling rope, readings visible as abstract digits without text."},
+    {"slot": "gauge-2", "alt": "Регистратор тяжения на пульте лебедки и протокол протяжки", "scene": "Operator hand next to a rugged tablet showing a tension graph line on the winch control panel, printed paper strip with graph."}
+   ]
+  },
+  {
+   "id": 11,
+   "theme": "Технологии: прокладка в траншее",
+   "photos": [
+    {"slot": "tech-hub", "alt": "Технологии прокладки кабеля", "scene": "Aerial drone view of a cable route construction: open trench, cable drum trailer, winch, rollers, workers, alongside a road in a suburban area."},
+    {"slot": "tech-trench", "alt": "Прокладка кабеля в траншее", "scene": "Open trench with sand bedding, three single-core power cables laid in trefoil, workers checking spacing, measuring tape."},
+    {"slot": "tech-trench-rollers", "alt": "Раскатка кабеля по роликам в траншее", "scene": "Cable being pulled along rollers in a trench, viewed along the trench axis, worker observer with radio at a bend."},
+    {"slot": "tech-trench-backfill", "alt": "Защита кабеля в траншее и обратная засыпка", "scene": "Worker laying red protective plastic plates over cables on sand bed in trench, warning tape roll, small excavator ready for backfill."},
+    {"slot": "tech-trench-2", "alt": "Разработка траншеи под кабельную линию экскаватором", "scene": "Excavator digging a straight trench for a cable line along a field edge, spoil heap on one side, surveyor with GPS rod."},
+    {"slot": "tech-trench-backfill-2", "alt": "Сигнальная лента над кабелем в траншее", "scene": "Yellow warning tape laid along a partially backfilled cable trench, compaction plate machine in use."}
+   ]
+  },
+  {
+   "id": 12,
+   "theme": "Технологии: трубы, канализация, ГНБ",
+   "photos": [
+    {"slot": "tech-duct", "alt": "Прокладка кабеля в трубах кабельной канализации", "scene": "Bundle of orange and black HDPE ducts laid in a trench with spacers, ready for cable installation, urban street."},
+    {"slot": "tech-duct-winch", "alt": "Затягивание кабеля в трубы лебедкой", "scene": "Winch rope emerging from a duct at a pit, worker applying cable pulling lubricant to the cable entering the duct at the other end."},
+    {"slot": "tech-hdd", "alt": "Горизонтально-направленное бурение под кабельный переход", "scene": "Horizontal directional drilling rig on tracks at a road crossing, drill rods, bentonite mixing unit, operators."},
+    {"slot": "tech-hdd-2", "alt": "Затягивание трубы в скважину ГНБ", "scene": "Long welded black HDPE pipe string being pulled back into an HDD borehole, reamer and swivel visible at entry pit."},
+    {"slot": "tech-duct-2", "alt": "Кабельный колодец с выходами труб", "scene": "Open concrete cable manhole with multiple duct openings on the walls, ladder, lighting, one duct with cable inserted."},
+    {"slot": "tech-duct-winch-2", "alt": "Нанесение смазки на кабель при затягивании в трубу", "scene": "Close-up of gloved hands applying white cable pulling lubricant gel on a black cable at a duct mouth."}
+   ]
+  },
+  {
+   "id": 13,
+   "theme": "Технологии: ВОЛС и высоковольтные кабели",
+   "photos": [
+    {"slot": "tech-fiber", "alt": "Прокладка оптического кабеля связи", "scene": "Fiber optic cable installation crew at a telecom manhole on a city street, small cable drum on stand, thin black cable going into microducts."},
+    {"slot": "tech-blowing", "alt": "Пневмопрокладка оптического кабеля машиной для задувки", "scene": "Cable blowing machine connected to a microduct with an air compressor nearby, technician monitoring speed and pressure."},
+    {"slot": "tech-hv", "alt": "Прокладка кабеля 110–500 кВ", "scene": "Massive steel drum with thick 220 kV cable at the beginning of a route, crane nearby, engineers in hard hats inspecting the cable end cap."},
+    {"slot": "tech-hv-2", "alt": "Высоковольтные кабели, уложенные треугольником в траншее", "scene": "Three very thick high-voltage cables laid in trefoil formation with cable cleats on a concrete bed in a deep trench."},
+    {"slot": "tech-fiber-2", "alt": "Микротрубки для оптического кабеля", "scene": "Close-up of a bundle of colorful microducts in a protective sheath at an open trench."},
+    {"slot": "tech-blowing-2", "alt": "Компрессор и машина для задувки на трассе ВОЛС", "scene": "Mobile air compressor on trailer next to a van, hoses connected to a blowing machine at roadside, rural landscape."}
+   ]
+  },
+  {
+   "id": 14,
+   "theme": "Технологии: коллекторы, эстакады, зима",
+   "photos": [
+    {"slot": "tech-tunnel", "alt": "Прокладка кабеля в кабельном коллекторе", "scene": "Underground cable collector with steel brackets on both walls carrying multiple power cables, workers pulling a new cable on rollers."},
+    {"slot": "tech-tray", "alt": "Прокладка кабеля по эстакаде и в лотках", "scene": "Industrial cable rack (overhead trestle) with wide cable trays filled with cables at a refinery, workers on scissor lift."},
+    {"slot": "tech-winter", "alt": "Прокладка кабеля при низких температурах", "scene": "Winter cable laying: snow-covered site, cable drum covered with insulated heating tent, workers in winter gear, frosty air."},
+    {"slot": "tech-tunnel-2", "alt": "Ролики на консолях в кабельном тоннеле", "scene": "Close-up of cable rollers mounted on tunnel brackets with a cable passing over them, concrete walls, lighting."},
+    {"slot": "tech-tray-2", "alt": "Ролики в кабельном лотке на повороте", "scene": "Tray rollers installed inside a ladder-type cable tray at a 90-degree bend, cable being pulled."},
+    {"slot": "tech-winter-2", "alt": "Прогрев кабельного барабана перед прокладкой зимой", "scene": "Industrial diesel heater blowing warm air through a duct into a tent covering a cable drum, snow around, thermometer showing frost (no numbers)."}
+   ]
+  },
+  {
+   "id": 15,
+   "theme": "Расчёт, нормативы, аренда",
+   "photos": [
+    {"slot": "tech-calc", "alt": "Инженер выполняет расчёт усилия тяжения кабеля", "scene": "Engineer at a desk with laptop showing a route diagram and a graph, printed cable route drawings, calculator, office near window."},
+    {"slot": "tech-norms", "alt": "Нормативная документация по прокладке кабеля", "scene": "Stack of technical binders and printed standards on a table at a construction site office, hard hat and reading glasses on top."},
+    {"slot": "rent-hub", "alt": "Парк оборудования для аренды", "scene": "Large rental fleet yard with winches, drum trailers and jacks lined up, warehouse gates in background, clean asphalt."},
+    {"slot": "rent-winch", "alt": "Выдача кабельной лебедки в аренду", "scene": "Technician demonstrating a cable winch to a customer before rental handover in front of a warehouse, checklist clipboard."},
+    {"slot": "rent-trailer", "alt": "Аренда прицепа для кабельного барабана", "scene": "Cable drum trailer being hitched to a customer's truck at a rental depot, technician checking lights."},
+    {"slot": "rent-hub-2", "alt": "Доставка арендованного оборудования на объект", "scene": "Flatbed truck with crane delivering a cable winch to a construction site, unloading with straps."}
+   ]
+  },
+  {
+   "id": 16,
+   "theme": "Сервис и обучение",
+   "photos": [
+    {"slot": "service-hub", "alt": "Сервисный центр по обслуживанию кабельного оборудования", "scene": "Bright modern service workshop with several cable winches on stands, mechanics working, organized tool walls."},
+    {"slot": "service-repair", "alt": "Ремонт гидравлики кабельной лебедки", "scene": "Mechanic replacing a hydraulic hose on a winch, close-up of hands with wrenches, oil tray below."},
+    {"slot": "service-training", "alt": "Обучение операторов кабельных лебедок", "scene": "Classroom training: instructor at a screen with a winch schematic, trainees in workwear taking notes."},
+    {"slot": "service-repair-2", "alt": "Калибровка датчика усилия на стенде", "scene": "Test bench with reference dynamometer and hydraulic cylinder calibrating a load cell, technician recording values."},
+    {"slot": "service-training-2", "alt": "Шеф-монтаж: инженер сопровождает первую протяжку", "scene": "Senior engineer standing next to the winch operator during a live cable pull, pointing at the display, construction site."},
+    {"slot": "service-hub-2", "alt": "Выездная сервисная служба", "scene": "Navy service van with open side door showing tool shelves, parked next to a cable winch at a remote site."}
+   ]
+  },
+  {
+   "id": 17,
+   "theme": "Отрасли: энергетика, связь, железные дороги",
+   "photos": [
+    {"slot": "ind-hub", "alt": "Отрасли применения оборудования для прокладки кабеля", "scene": "Collage-like single wide scene: substation in background, cable trench in foreground, fiber manhole, railway line on the side — realistic single photo composition at dusk."},
+    {"slot": "ind-power", "alt": "Прокладка кабеля на электрической подстанции", "scene": "Electrical substation 110 kV with transformers, cable trench leading to switchgear building, cable drum in front."},
+    {"slot": "ind-telecom", "alt": "Строительство линии связи", "scene": "Telecom crew installing fiber cable along a highway, blowing equipment van, roadside cones."},
+    {"slot": "ind-rail", "alt": "Прокладка кабеля вдоль железной дороги", "scene": "Cable laying along a railway track: cable trough with concrete covers, workers in orange vests, train passing in distance."},
+    {"slot": "ind-power-2", "alt": "Кабельный ввод в здание распределительного устройства", "scene": "Power cables entering a switchgear building through sealed wall penetrations, cable trench, technicians."},
+    {"slot": "ind-telecom-2", "alt": "Колодец кабельной канализации связи", "scene": "Open telecom manhole in a city with fiber splice closure and cable loops inside, technician kneeling."}
+   ]
+  },
+  {
+   "id": 18,
+   "theme": "Отрасли: нефтегаз, строительство, ВИЭ",
+   "photos": [
+    {"slot": "ind-oil", "alt": "Прокладка кабеля на нефтегазовом месторождении", "scene": "Oil field with pumpjacks, cable trench and cable drum trailer in flat steppe landscape, workers in flame-resistant suits."},
+    {"slot": "ind-construction", "alt": "Прокладка кабеля на строительной площадке жилого комплекса", "scene": "Construction site of a modern residential complex, tower crane, trench for power cables to a transformer substation."},
+    {"slot": "ind-renewables", "alt": "Прокладка кабеля на солнечной электростанции", "scene": "Solar power plant with rows of panels, trench between rows with cables being laid, inverter station."},
+    {"slot": "ind-rail-2", "alt": "Прокладка кабеля в тоннеле метрополитена", "scene": "Subway tunnel with cable brackets on the wall, maintenance crew installing cables at night with work lights."},
+    {"slot": "ind-oil-2", "alt": "Кабельная эстакада на нефтеперерабатывающем заводе", "scene": "Refinery pipe and cable rack with cable trays, columns and pipelines, workers on platform."},
+    {"slot": "ind-renewables-2", "alt": "Прокладка кабеля на ветровой электростанции", "scene": "Wind farm with turbines on a hill, trench leading to a turbine base, cable drum trailer and winch."}
+   ]
+  },
+  {
+   "id": 19,
+   "theme": "Компания: склад, офис, филиалы",
+   "photos": [
+    {"slot": "about-2", "alt": "Склад оборудования для прокладки кабеля", "scene": "Interior of a modern warehouse with pallet racks holding cable rollers, jacks and rope reels, forklift, winches on the floor."},
+    {"slot": "about-3", "alt": "Инженер компании консультирует заказчика", "scene": "Engineer and client discussing cable route drawings at a meeting table in a modern office with large windows."},
+    {"slot": "contacts-office", "alt": "Офис компании в бизнес-центре", "scene": "Modern business center building exterior with glass facade on a sunny day, city street, people walking."},
+    {"slot": "contacts-warehouse", "alt": "Складской комплекс филиала", "scene": "Exterior of a large modern logistics warehouse complex with loading docks and trucks, clean asphalt yard."},
+    {"slot": "ind-construction-2", "alt": "Прокладка кабеля к трансформаторной подстанции нового квартала", "scene": "Package transformer substation in a new residential district, cable trench leading to it, workers laying cable."},
+    {"slot": "about-4", "alt": "Проверка лебедки на испытательном стенде перед отгрузкой", "scene": "Winch on a test stand inside a workshop, technician testing pulling force against a load cell, protective fence."}
+   ]
+  },
+  {
+   "id": 20,
+   "theme": "Лебедки: дополнительные ракурсы",
+   "photos": [
+    {"slot": "winch-petrol-small-2", "alt": "Кабестан с ручной подтяжкой каната", "scene": "Close-up of a worker tailing a rope on a small capstan winch drum with several wraps, hands in gloves."},
+    {"slot": "winch-petrol-3t-2", "alt": "Пульт управления бензиновой лебедкой с индикатором усилия", "scene": "Close-up of petrol winch control panel: throttle, hydraulic speed lever, digital force display, emergency stop."},
+    {"slot": "winch-petrol-fiber-2", "alt": "Протяжка ВОЛС в защитной трубе вдоль дороги", "scene": "Roadside installation of fiber cable into an HDPE duct with a compact winch, traffic cones, rural highway."},
+    {"slot": "winch-diesel-5t-2", "alt": "Синтетический канат на накопительном барабане лебедки", "scene": "Close-up of orange synthetic rope neatly spooled on the storage drum of a diesel winch with level wind mechanism."},
+    {"slot": "winch-diesel-10t-2", "alt": "Протяжка кабеля в трубу ГНБ дизельной лебедкой", "scene": "Rope under tension coming out of an HDPE pipe at the exit pit of an HDD crossing, winch in background, river visible."},
+    {"slot": "winch-diesel-20t-2", "alt": "Оператор тяжёлой лебедки за пультом", "scene": "Operator seated at the control station of a heavy winch with protective screen, monitoring a large display, focused expression."}
+   ]
+  }
+ ]
+}
